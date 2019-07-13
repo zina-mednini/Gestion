@@ -1,6 +1,6 @@
 <html>
 
-<h1>@ Seddik Ayman feki et ameni  XXX</h1>
+<h1>Tests avec Jenkins</h1>
 
 </html>
 
