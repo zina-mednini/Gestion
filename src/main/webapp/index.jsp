@@ -22,7 +22,14 @@
 <hr align="center" width="50%" color="midnightblue" size="3"> 	
 </br>
   <center> 
-	  <iframe name="date du jour" id="date-du-jour" style="width:105px;height:75px;" src="https://www.mathieuweb.fr/calendrier/date-jour-noir2.html" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+	  <SCRIPT LANGUAGE="JavaScript">
+		var maintenant=new Date();
+		var jour=maintenant.getDate();
+		var mois=maintenant.getMonth()+1;
+		var an=maintenant.getFullYear();
+document.write("Nous sommes le ",jour,"/",mois,"/",an,".");
+         </SCRIPT>
+	  
 	  <h1 >  Groupe devops :)------------->Tests Jenkins </h1> 
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
