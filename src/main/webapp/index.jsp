@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>DevOps Tools Engineer | Linux Professional Institute...</p></header>
+<header id="header"><p>Formation Exam 701: DevOps Tools Engineer | LPI...</p></header>
 	</br></br></br></br>
 <hr align="center" width="50%" color="midnightblue" size="3"> 	
 </br></br>
@@ -25,7 +25,10 @@
 	  <iframe name="date du jour" id="date-du-jour" style="width:105px;height:75px;" src="https://www.mathieuweb.fr/calendrier/date-jour-noir2.html" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 	  <h1 >  Groupe devops :)------------->Tests Jenkins </h1> 
   </center>
-</br></br>
+</br>
+ <img src="jenkins.png" > 
+
+</br>
 <hr align="center" width="50%" color="midnightblue" size="3"> 
   
 </body>
