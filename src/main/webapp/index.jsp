@@ -3,7 +3,7 @@
  <style type="text/css">
    
    #header, #footer {
-			font-size: large;
+			font-size: 40px;;
 			padding: 0.3em;
 			background: #BCCE98;
 		}
@@ -16,7 +16,7 @@
   
   
 <body>
- <header id="header"><p>Header...</p></header> 
+ <header id="header"><p>DevOps Tools Engineer | Linux Professional Institute...</p></header> 
   <h1>Tests avec Jenkins Groupe devops :)-- </h1>
 
   
