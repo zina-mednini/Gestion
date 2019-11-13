@@ -19,16 +19,9 @@
 	
 <header id="header"><p>Formation Exam 701: DevOps Tools Engineer | LPI...</p></header>
 	</br></br>
-<hr align="center" width="50%" color="midnightblue" size="3"> 	
-</br>
+
   <center> 
-	  <SCRIPT LANGUAGE="JavaScript">
-		var maintenant=new Date();
-		var jour=maintenant.getDate();
-		var mois=maintenant.getMonth()+1;
-		var an=maintenant.getFullYear();
-document.write("Nous sommes le ",jour,"/",mois,"/",an,".");
-         </SCRIPT>
+	  
 	  
 	  <h1 >  Groupe devops :)------------->Tests Jenkins </h1> 
 	  </br>
@@ -38,7 +31,16 @@ document.write("Nous sommes le ",jour,"/",mois,"/",an,".");
 
 
 </br>
-<hr align="center" width="50%" color="midnightblue" size="3"> 
+<header id="footer">
+<SCRIPT LANGUAGE="JavaScript">
+		var maintenant=new Date();
+		var jour=maintenant.getDate();
+		var mois=maintenant.getMonth()+1;
+		var an=maintenant.getFullYear();
+                document.write("Nous sommes le ",jour,"/",mois,"/",an,".");
+         </SCRIPT>
+
+</header>
   
 </body>
 </html>
