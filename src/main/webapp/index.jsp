@@ -25,7 +25,7 @@
 	  <iframe name="date du jour" id="date-du-jour" style="width:105px;height:75px;" src="https://www.mathieuweb.fr/calendrier/date-jour-noir2.html" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 	  <h1 >  Groupe devops :)------------->Tests Jenkins </h1> 
 	  </br>
-          <img src="Jenkins.png"  height="42" width="42"> 
+          <img src="Jenkins.png"  height="300" width="300"> 
   </center>
 </br>
 
