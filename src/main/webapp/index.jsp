@@ -26,7 +26,7 @@
 	  <h1 >  Groupe devops :)------------->Tests Jenkins </h1> 
   </center>
 </br>
- <img src="jenkins.png" > 
+ <img src="/jenkins.png" > 
 
 </br>
 <hr align="center" width="50%" color="midnightblue" size="3"> 
